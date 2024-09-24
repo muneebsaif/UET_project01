@@ -1,4 +1,12 @@
+#Name     Muneeb ur Rehman khan
+#Reg No   2024-MS-DS-115 
+
+
 #crud application using python
+
+
+
+
 #variables declaration
 products_details={"p01":["product_name","short discription",200,"img.jpeg",4.0],"p02":["product_name1","short discription1",201,"img1.jpeg",4.1]}
 headings=["pid", "name", "discription", "price", "image", "rating"]
